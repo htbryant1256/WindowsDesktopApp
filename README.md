@@ -1,2 +1,2 @@
 # WindowsDesktopApp
-![screenshot](img.png) 
+![screenshot](screenshot.png) 
